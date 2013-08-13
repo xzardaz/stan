@@ -1,0 +1,80 @@
+body
+{
+	text-align: center;
+}
+
+div
+{
+	border: 0px solid;
+}
+
+
+#mainContainer
+{
+	width: 762;
+	display: inline-block;
+}
+
+#header
+{
+	height: 165px;
+	width: 760px;
+	display: inline-block;
+}
+
+
+#headPic
+{
+	height: 126px;
+	width: 760px;
+	background-image: url("../img/head.jpg");
+	display: inline-block;
+}
+
+#headMenu
+{
+	height: 39px;
+	width: 760px;
+	background-color: yellow;
+	display: inline-block;
+}
+
+
+#Middle
+{
+	background-color: blue;
+	display: inline-block;
+	width: 100%;
+}
+
+
+
+
+.middleDiv
+{
+	display: inline-block;
+	float: left;
+}
+
+#Left
+{
+	width: 186px;
+	background-color: darkblue;
+}
+
+#Center
+{
+	width: 398px;
+	background-color: blue;
+}
+
+#Right
+{
+	width: 170px;
+	background-color: lightblue;
+}
+
+#Footer
+{
+	background-image: url("../img/head.jpg");
+}
